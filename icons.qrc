@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>quit.png</file>
+        <file>folder.png</file>
+        <file>zoom-out.png</file>
+        <file>slideshow.png</file>
+    </qresource>
+</RCC>
